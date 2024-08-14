@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://dmccrearytg.github.io/test-repo/</loc>
-         <lastmod>2024-04-18</lastmod>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/</loc>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccrearytg.github.io/test-repo/about/</loc>
-         <lastmod>2024-04-18</lastmod>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/about/</loc>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccrearytg.github.io/test-repo/contact/</loc>
-         <lastmod>2024-04-18</lastmod>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/contact/</loc>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccrearytg.github.io/test-repo/geospatial-concepts/</loc>
-         <lastmod>2024-04-18</lastmod>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/data-model/</loc>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccrearytg.github.io/test-repo/sample-transcript/</loc>
-         <lastmod>2024-04-18</lastmod>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/geospatial-concepts/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/sample-transcript/</loc>
+         <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

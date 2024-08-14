@@ -13,6 +13,7 @@ nav:
   - Contact: contact.md
   - Concepts: concepts/index.md
   - Glossary: glossary.md
+  - References: references.md
 
 # edit_uri: 'blob/master/docs'
 theme:
