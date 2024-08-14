@@ -9,9 +9,14 @@ edit_uri: edit/master/docs/
 
 nav:
   - Home: index.md
-  - About: about.md
   - Contact: contact.md
-  - Concepts: concepts/index.md
+  - Concepts:
+    - Intro: concepts/index.md
+    - RAG: concepts/rag.md
+    - GraphRAG: concepts/graphrag.md
+    - NLP Pipelines: concepts/nlp-pipelines.md
+    - Explainability: concepts/explinability.md
+    - Testing: concepts/testing.md
   - Glossary: glossary.md
   - References: references.md
 
