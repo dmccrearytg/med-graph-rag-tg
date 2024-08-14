@@ -1,0 +1,48 @@
+site_name: TigerGraph Med Graph RAG
+site_url: https://github.com/dmccrearytg/med-graph-rag-tg
+site_description: 'Resources for demonstrating the Med-Graph-RAG architecture with TigerGraph.'
+site_author: 'Dan McCreary'
+repo_name: 'GitHub Repo'
+site_url: 'https://dmccrearytg.github.io/med-graph-rag-tg'
+repo_url: 'https://github.com/dmccrearytg/med-graph-rag-tg'
+edit_uri: edit/master/docs/
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+  - Concepts: concepts/index.md
+  - Glossary: glossary.md
+
+# edit_uri: 'blob/master/docs'
+theme:
+  name: material
+  logo: img/tg-logo-small.png
+  favicon: img/favicon.ico
+  include_sidebar: true
+  features:
+    - content.code.copy
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    # this adds the prev and next icons in the footer
+    - navigation.footer
+plugins:
+  - search
+#  - social
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      linenums: true
+# extra:
+#  analytics:
+#    provider: google
+#    # https://analytics.google.com/analytics/web/#/a1420179p349994530/admin/streams/table/4433129821
+#    property: G-BBR7MPK96Z
