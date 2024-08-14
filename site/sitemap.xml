@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/about/</loc>
-         <lastmod>2024-08-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://dmccrearytg.github.io/med-graph-rag-tg/contact/</loc>
          <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
@@ -27,6 +22,46 @@
     </url>
     <url>
          <loc>https://dmccrearytg.github.io/med-graph-rag-tg/references/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/entity-extraction/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/explainability/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/graphrag/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/nlp-pipelines/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/rag/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/semantic-chunking/</loc>
+         <lastmod>2024-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccrearytg.github.io/med-graph-rag-tg/concepts/testing/</loc>
          <lastmod>2024-08-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
